@@ -1,8 +1,10 @@
 streamlit
 pandas
 numpy
-torch
+scikit-learn
 sentence-transformers
 faiss-cpu
-scikit-learn
-pymupdf
+fpdf
+PyMuPDF
+requests
+streamlit-lottie
