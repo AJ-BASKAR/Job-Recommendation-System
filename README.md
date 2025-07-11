@@ -1,11 +1,13 @@
-🤖 AI-Powered Job Recommendation System
-🚀 Developed by AJ Baskar
-🧠 Overview
+**🤖 AI-Powered Job Recommendation System
+🚀 Developed by AJ Baskar**
+
+
+**🧠 Overview**
 The AI-Powered Job Recommendation System is an intelligent web application built by AJ Baskar that helps job seekers discover the most suitable career opportunities based on their resume content. By combining Natural Language Processing, semantic similarity, and vector search, this system goes beyond keyword matching and delivers smart, contextual job recommendations.
 
 It’s ideal for recent graduates, professionals changing fields, or anyone looking for personalized job insights.
 
-🌟 Highlighted Features
+**🌟 Highlighted Features**
 📄 Upload Resume (PDF): Automatically reads and analyzes your resume.
 
 🔍 AI-Driven Job Matching: Uses SentenceTransformer for contextual understanding.
@@ -22,7 +24,7 @@ It’s ideal for recent graduates, professionals changing fields, or anyone look
 
 📥 Download Matching Jobs (Planned): Export recommendations in PDF format.
 
-🧰 Tech Stack
+**🧰 Tech Stack**
 Technology	Purpose
 Python	Core logic, NLP, and data processing
 Streamlit	Web interface
@@ -32,7 +34,7 @@ PyMuPDF (fitz)	Extracts raw text from PDF resumes
 scikit-learn	TF-IDF filtering and preprocessing
 pandas & NumPy	Data manipulation and structuring
 
-🧪 How It Works
+**🧪 How It Works**
 Resume Ingestion
 
 The user uploads a .pdf file.
@@ -56,8 +58,8 @@ Result Display
 Top 5–10 most relevant job roles are shown.
 
 Option to view job descriptions and matched skill highlights.
-
-📂 Dataset Details
+**
+📂 Dataset Details**
 JobsFE.csv includes:
 
 Job Titles
@@ -72,7 +74,7 @@ Work Type (remote/on-site)
 
 Tip: You can update this dataset to match different industries (e.g., Data Science, Web Dev, etc.)
 
-🚀 Getting Started
+**🚀 Getting Started**
 bash
 Copy
 Edit
@@ -102,9 +104,9 @@ Make sure you have Python ≥ 3.8 installed and a stable internet connection for
 
 ✅ Skill-gap analysis and suggestions for upskilling
 
-📸 Screenshots (Optional)
+**📸 Screenshots (Optional)**
 Add screenshots of the Streamlit app: Upload Section, Top Job Matches, UI Preview, etc.
-
-📌 Why This Project?
+**
+📌 Why This Project?**
 As a Data Science and AI enthusiast, AJ Baskar wanted to solve a real-world problem faced by many job seekers—finding jobs that actually match their unique skillset. Traditional keyword-matching job boards fail to understand context. This project fills that gap by using semantic AI to connect candidates with ideal job opportunities.
 
