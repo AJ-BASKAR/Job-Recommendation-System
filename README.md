@@ -1,5 +1,5 @@
 **🤖 AI-Powered Job Recommendation System
-🚀 Developed by AJ Baskar**
+🚀 Developed . by AJ Baskar**
 
 
 **🧠 Overview**
